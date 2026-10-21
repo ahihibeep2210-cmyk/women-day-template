@@ -5,8 +5,8 @@ export type Photo = {
   position?: string;
 };
 
-const HER = "[Tên nàng thơ]";
-const ME = "[Tên bạn]";
+const HER = "[Đoàn Thị Ngọc Huyền]";
+const ME = "[Hồng Huy]";
 
 export const issue = {
   masthead: "MUSE",
