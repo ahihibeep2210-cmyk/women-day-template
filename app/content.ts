@@ -14,7 +14,7 @@ export const issue = {
   yourName: ME,
   volume: "Vol. 01",
   city: "[Thành phố]",
-  date: "20.10.2026",
+  date: "1231903182309128310.10.2026",
   dateLong: "20 tháng Mười, 2026",
   price: "Vô giá",
 };
